@@ -1,2 +1,2 @@
-# Introgression-Visualization
-A set of python scripts to help others understand how does D statistic work
+# 混血可视化
+用于将分析混血的算法进行可视化的python代码，输出结果全汉化
